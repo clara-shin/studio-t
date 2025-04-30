@@ -8,7 +8,6 @@
 
 #### <div align=center>🚀 <a href="https://tiramisu-studiot.web.app/">StudioT 바로가기</a></div>
 
-<br>
 <h3 align=center>테스트 계정</h3>
 
 <div align=center>
@@ -18,6 +17,7 @@
 |  **김태화**  | kimth@studiot.com |  test1234!   |
 
 </div>
+<br>
 
 ## 팀명: T라미수 (이유: 다 T, T라 미숙해)
 

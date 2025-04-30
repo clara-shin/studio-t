@@ -6,18 +6,15 @@
 
 이 서비스는 이 달의 급여명세서 알림, 개인의 일정 관리, 회사 일정과 동료 이벤트 조회, 급여명세서 조회 및 저장, 정정신청 관리를 할 수 있습니다.
 
-#### <div align=center>🚀 <a href="https://tiramisu-studiot.web.app/">StudioT 바로가기</a></div>
+### <div align=center>🚀 <a href="https://tiramisu-studiot.web.app/">StudioT 바로가기</a></div>
 
-<h3 align=center>테스트 계정</h3>
+### 테스트 계정
 
-<div align=center>
+|    **이메일**     | **비밀번호** |
+| :---------------: | :----------: |
+| kimth@studiot.com |  test1234!   |
 
-| **페르소나** |    **이메일**     | **비밀번호** |
-| :----------: | :---------------: | :----------: |
-|  **김태화**  | kimth@studiot.com |  test1234!   |
-
-</div>
-<br>
+---
 
 ## 팀명: T라미수 (이유: 다 T, T라 미숙해)
 
